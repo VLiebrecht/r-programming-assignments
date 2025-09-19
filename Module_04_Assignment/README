@@ -1,0 +1,7 @@
+# Assignment 04- Visuals
+
+## Description
+The assignment builds a small dataset to explore relationships between Blood Pressure and 3 categorical assessments (First Assessment, Second Assessment, Final Decision)
+
+## How to run
+1) Open repository in **RStudio** 2) Run all lines, or in the console 3) Outputs (plots/tables) are produced in the Console and/ or saved to `Final_Project/results/` if applicable
